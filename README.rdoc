@@ -1,28 +1,13 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Ruby on Rails Web Framework for Sustainability Analysis. This website serves as the core knowledge center for sustainability research group from İstanbul while involving cutting edge & free sustainability analysis tool.
 
-Things you may want to cover:
+You may visit and leave any update to G-Cat Tool that is provided in app folder.
 
-* Ruby version
+Front-end development suggestions are also welcomed.
 
-* System dependencies
+Please feel free to ask, clone, and to create pull requests.
 
-* Configuration
+Muhammet Ali Taşkın
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+**********
