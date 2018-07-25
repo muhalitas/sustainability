@@ -23,7 +23,7 @@ gem 'turbolinks'
 gem 'coffee-script-source', '1.8.0'
 gem 'delayed_job_active_record'
 gem 'progress_job'
-gem 'nokogiri'
+gem 'nokogiri', '1.8.2'
 
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '~> 2.0'
