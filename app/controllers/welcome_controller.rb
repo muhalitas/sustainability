@@ -250,6 +250,7 @@ end
     @get.each do |l|
         @m3 << l[:f] #For Matrix multiplication, just numbers.
     end
+    
     @m3 = Matrix.column_vector(@m3)
 
  
